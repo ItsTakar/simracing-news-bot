@@ -11,10 +11,12 @@ const task = (sourceKey, items, extra = {}) => ({ label: sourceKey, run: async (
 const seeded = (keys, extra = {}) => ({ ...emptyState(), seededSources: keys, lastDigest: '2026-11-13', ...extra });
 const collector = () => { const sent = []; return { sent, send: async (t) => { sent.push(t); } }; };
 
-test('fuente nueva: registra lo existente sin avisar', async () => {
+test('fuente nueva: registra lo existente sin avisar (solo manda la bienvenida)', async () => {
   const { sent, send } = collector();
   const r = await run({ state: emptyState(), now: NOW, send, log: quiet, tasks: [task('a', [item('1'), item('2')])] });
-  assert.equal(sent.length, 0);
+  assert.equal(sent.length, 1);
+  assert.match(sent[0], /Bot de novedades activo/);
+  assert.match(sent[0], /registré 2 noticias/);
   assert.deepEqual(r.state.seededSources, ['a']);
   assert.ok(r.state.seen['1'] && r.state.seen['2']);
   assert.equal(r.state.lastDigest, '2026-11-13'); // no manda resumen vacío en el primer arranque

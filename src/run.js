@@ -97,8 +97,16 @@ export async function run({ state, now = Date.now(), fetchFn, send, log = consol
   // Resumen diario: una vez por día, en la primera corrida a partir de la hora configurada.
   const d = new Date(now);
   const todayKey = d.toISOString().slice(0, 10);
-  if (state.lastDigest === null) state.lastDigest = todayKey; // primer arranque: no mandar un resumen vacío
-  else if (d.getUTCHours() >= SETTINGS.digestUtcHour && state.lastDigest !== todayKey) {
+  if (state.lastDigest === null) {
+    // Primer arranque: en vez de un resumen vacío, un mensaje que confirma que la conexión anda.
+    try {
+      await send(`🏁 <b>Bot de novedades activo</b>\nYa registré ${Object.keys(state.seen).length} noticias existentes. A partir de ahora te aviso solo lo nuevo.`);
+      state.lastDigest = todayKey;
+    } catch (err) {
+      log(`⚠️ No se pudo enviar el mensaje de bienvenida: ${err.message}`);
+      errors.push('telegram');
+    }
+  } else if (d.getUTCHours() >= SETTINGS.digestUtcHour && state.lastDigest !== todayKey) {
     try {
       for (const chunk of splitMessage(formatDigest(state.today))) await send(chunk);
       state.today = [];

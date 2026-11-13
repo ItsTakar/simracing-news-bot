@@ -33,3 +33,9 @@ const send = dryRun
 
 const result = await run({ state, fetchFn, send });
 await writeFile(STATE_FILE, `${JSON.stringify(result.state, null, 1)}\n`);
+
+// Si Telegram rechazó la conexión, marcar la corrida en rojo en GitHub para que se note.
+if (result.errors.includes('telegram')) {
+  console.error('❌ Telegram rechazó el mensaje: revisá TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID en los secretos.');
+  process.exit(1);
+}
