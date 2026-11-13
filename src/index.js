@@ -3,7 +3,8 @@
 //   STATE_FILE -> ruta del archivo de estado (por defecto state.json)
 import { readFile, writeFile } from 'node:fs/promises';
 import { run, emptyState } from './run.js';
-import { sendMessage } from './telegram.js';
+import { sendMessage, getUpdates, setMyCommands } from './telegram.js';
+import { handleCommands, COMMAND_MENU } from './commands.js';
 import { SETTINGS } from './config.js';
 
 const STATE_FILE = process.env.STATE_FILE ?? 'state.json';
@@ -32,6 +33,22 @@ const send = dryRun
   : (text) => sendMessage(text, { token, chatId, fetchFn });
 
 const result = await run({ state, fetchFn, send });
+
+// Comandos (/novedades, /semana, /juego): se leen los mensajes que le escribiste al bot y se responden.
+if (!dryRun) {
+  const s = result.state;
+  try {
+    if (!s.commandsRegistered) {
+      await setMyCommands(COMMAND_MENU, { token, fetchFn });
+      s.commandsRegistered = true;
+    }
+    const updates = await getUpdates(s.updateOffset, { token, fetchFn });
+    s.updateOffset = await handleCommands({ updates, chatId, recent: s.recent, now: Date.now(), send, offset: s.updateOffset });
+  } catch (err) {
+    console.log(`⚠️ No se pudieron leer los comandos: ${err.message}`);
+  }
+}
+
 await writeFile(STATE_FILE, `${JSON.stringify(result.state, null, 1)}\n`);
 
 // Si Telegram rechazó la conexión, marcar la corrida en rojo en GitHub para que se note.

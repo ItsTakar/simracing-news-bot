@@ -6,7 +6,7 @@ import { formatItem, formatDigest, splitMessage } from './format.js';
 
 const DAY = 24 * 60 * 60 * 1000;
 
-export const emptyState = () => ({ seen: {}, seededSources: [], dlc: {}, today: [], lastDigest: null });
+export const emptyState = () => ({ seen: {}, seededSources: [], dlc: {}, today: [], recent: [], lastDigest: null, updateOffset: 0, commandsRegistered: false });
 
 // Cada tarea devuelve { sourceKey, items }. Si una fuente falla, se registra y se sigue.
 function buildTasks(fetchFn, now) {
@@ -87,7 +87,9 @@ export async function run({ state, now = Date.now(), fetchFn, send, log = consol
       await send(formatItem(item));
       state.seen[item.id] = now;
       if (item.dlcRef) state.dlc[item.dlcRef.gameKey].push(item.dlcRef.id);
-      state.today.push({ game: item.game, kind: item.kind, title: item.title, url: item.url });
+      const entry = { game: item.game, kind: item.kind, title: item.title, url: item.url };
+      state.today.push(entry);
+      state.recent.push({ ...entry, sentAt: now }); // historial para /novedades, /semana y /juego
       sent++;
     } catch (err) {
       log(`⚠️ No se pudo enviar "${item.title}": ${err.message} (se reintenta en la próxima corrida)`);
@@ -119,6 +121,7 @@ export async function run({ state, now = Date.now(), fetchFn, send, log = consol
 
   // Olvidar IDs muy viejos para que el archivo no crezca para siempre.
   for (const [id, ts] of Object.entries(state.seen)) if (now - ts > SETTINGS.pruneSeenDays * DAY) delete state.seen[id];
+  state.recent = state.recent.filter((r) => now - r.sentAt <= 7 * DAY);
 
   log(`✔ Corrida terminada: ${sent} aviso(s) enviado(s), ${unique.size - sent} pendiente(s), ${errors.length} fuente(s) con error`);
   return { state, sent, errors };
