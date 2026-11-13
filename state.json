@@ -146,7 +146,8 @@
   "feed:yt-lmu",
   "feed:traxion",
   "feed:simracinginfo",
-  "feed:r-simracing"
+  "feed:r-simracing",
+  "feed:r-acc"
  ],
  "dlc": {
   "acevo": [],
@@ -195,6 +196,6 @@
  "today": [],
  "recent": [],
  "lastDigest": "2026-11-13",
- "updateOffset": 650236577,
+ "updateOffset": 650236579,
  "commandsRegistered": true
 }
