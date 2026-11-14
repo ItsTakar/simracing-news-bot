@@ -125,7 +125,8 @@
   "r-simracing:t3_1xvb4wf": 1794603126957,
   "r-assettocorsa:t3_1xvobln": 1794620636194,
   "r-lmu:t3_1xvjxu3": 1794643549200,
-  "r-lmu:t3_1xv5ie5": 1794643549200
+  "r-lmu:t3_1xv5ie5": 1794643549200,
+  "traxion:https://traxion.gg/?p=109963": 1794678113020
  },
  "seededSources": [
   "steamnews:acevo",
@@ -198,8 +199,23 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
- "recent": [],
+ "today": [
+  {
+   "game": "Assetto Corsa",
+   "kind": "advance",
+   "title": "Why Formula E chose an Assetto Corsa modder to showcase its new GEN4 car",
+   "url": "https://traxion.gg/why-formula-e-chose-an-assetto-corsa-modder-to-showcase-its-new-gen4-car/"
+  }
+ ],
+ "recent": [
+  {
+   "game": "Assetto Corsa",
+   "kind": "advance",
+   "title": "Why Formula E chose an Assetto Corsa modder to showcase its new GEN4 car",
+   "url": "https://traxion.gg/why-formula-e-chose-an-assetto-corsa-modder-to-showcase-its-new-gen4-car/",
+   "sentAt": 1794678113020
+  }
+ ],
  "lastDigest": "2026-11-14",
  "updateOffset": 650236579,
  "commandsRegistered": true
