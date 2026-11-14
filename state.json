@@ -123,7 +123,9 @@
   "simracinginfo:69d8e471ca9f0a0001ed6081": 1794603126957,
   "r-simracing:t3_1xvgxlt": 1794603126957,
   "r-simracing:t3_1xvb4wf": 1794603126957,
-  "r-assettocorsa:t3_1xvobln": 1794620636194
+  "r-assettocorsa:t3_1xvobln": 1794620636194,
+  "r-lmu:t3_1xvjxu3": 1794643549200,
+  "r-lmu:t3_1xv5ie5": 1794643549200
  },
  "seededSources": [
   "steamnews:acevo",
@@ -149,7 +151,8 @@
   "feed:simracinginfo",
   "feed:r-simracing",
   "feed:r-acc",
-  "feed:r-assettocorsa"
+  "feed:r-assettocorsa",
+  "feed:r-lmu"
  ],
  "dlc": {
   "acevo": [],
