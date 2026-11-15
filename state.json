@@ -126,7 +126,8 @@
   "r-assettocorsa:t3_1xvobln": 1794620636194,
   "r-lmu:t3_1xvjxu3": 1794643549200,
   "r-lmu:t3_1xv5ie5": 1794643549200,
-  "traxion:https://traxion.gg/?p=109963": 1794678113020
+  "traxion:https://traxion.gg/?p=109963": 1794678113020,
+  "r-simracing:t3_1xwhrm5": 1794706804373
  },
  "seededSources": [
   "steamnews:acevo",
@@ -205,6 +206,12 @@
    "kind": "advance",
    "title": "Why Formula E chose an Assetto Corsa modder to showcase its new GEN4 car",
    "url": "https://traxion.gg/why-formula-e-chose-an-assetto-corsa-modder-to-showcase-its-new-gen4-car/"
+  },
+  {
+   "game": "Assetto Corsa",
+   "kind": "advance",
+   "title": "Drive the GEN4 in Assetto Corsa | Official Trailer",
+   "url": "https://www.reddit.com/r/simracing/comments/1xwhrm5/drive_the_gen4_in_assetto_corsa_official_trailer/"
   }
  ],
  "recent": [
@@ -214,6 +221,13 @@
    "title": "Why Formula E chose an Assetto Corsa modder to showcase its new GEN4 car",
    "url": "https://traxion.gg/why-formula-e-chose-an-assetto-corsa-modder-to-showcase-its-new-gen4-car/",
    "sentAt": 1794678113020
+  },
+  {
+   "game": "Assetto Corsa",
+   "kind": "advance",
+   "title": "Drive the GEN4 in Assetto Corsa | Official Trailer",
+   "url": "https://www.reddit.com/r/simracing/comments/1xwhrm5/drive_the_gen4_in_assetto_corsa_official_trailer/",
+   "sentAt": 1794706804373
   }
  ],
  "lastDigest": "2026-11-14",
