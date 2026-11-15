@@ -154,7 +154,8 @@
   "feed:r-simracing",
   "feed:r-acc",
   "feed:r-assettocorsa",
-  "feed:r-lmu"
+  "feed:r-lmu",
+  "feed:r-iracing"
  ],
  "dlc": {
   "acevo": [],
