@@ -136,7 +136,8 @@
   "iracing-web:https://www.iracing.com/?p=292872": 1794850636349,
   "traxion:https://traxion.gg/?p=110061": 1794853745437,
   "iracing-web:https://www.iracing.com/?p=292862": 1794857253226,
-  "iracing-web:https://www.iracing.com/?p=292877": 1794868045078
+  "iracing-web:https://www.iracing.com/?p=292877": 1794868045078,
+  "r-simracing:t3_1xy46q6": 1794870636973
  },
  "seededSources": [
   "steamnews:acevo",
@@ -264,6 +265,12 @@
    "kind": "official",
    "title": "This Week in iRacing | November 17th to November 23rd, 2026",
    "url": "https://www.iracing.com/this-week-in-iracing-november-17th-to-november-23rd-2026/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "My First Race of the Season at Road Atlanta | Iracing Fanatace GT3 Chall...",
+   "url": "https://www.reddit.com/r/simracing/comments/1xy46q6/my_first_race_of_the_season_at_road_atlanta/"
   }
  ],
  "recent": [
@@ -343,6 +350,13 @@
    "title": "This Week in iRacing | November 17th to November 23rd, 2026",
    "url": "https://www.iracing.com/this-week-in-iracing-november-17th-to-november-23rd-2026/",
    "sentAt": 1794868045078
+  },
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "My First Race of the Season at Road Atlanta | Iracing Fanatace GT3 Chall...",
+   "url": "https://www.reddit.com/r/simracing/comments/1xy46q6/my_first_race_of_the_season_at_road_atlanta/",
+   "sentAt": 1794870636973
   }
  ],
  "lastDigest": "2026-11-16",
