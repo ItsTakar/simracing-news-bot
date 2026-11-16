@@ -127,7 +127,11 @@
   "r-lmu:t3_1xvjxu3": 1794643549200,
   "r-lmu:t3_1xv5ie5": 1794643549200,
   "traxion:https://traxion.gg/?p=109963": 1794678113020,
-  "r-simracing:t3_1xwhrm5": 1794706804373
+  "r-simracing:t3_1xwhrm5": 1794706804373,
+  "iracing-web:https://www.iracing.com/?p=292865": 1794846006339,
+  "traxion:https://traxion.gg/?p=110042": 1794846006339,
+  "steam:1849458702690134": 1794846006339,
+  "r-simracing:t3_1xxtceq": 1794846006339
  },
  "seededSources": [
   "steamnews:acevo",
@@ -201,7 +205,32 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "THIS WEEK: iRacing SCCA Runoffs | Special Event",
+   "url": "https://www.iracing.com/this-week-iracing-scca-runoffs-special-event/"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Laser-scanned Rally Sweden stages confirmed for Assetto Corsa Rally’s V0.7 update",
+   "url": "https://traxion.gg/laser-scanned-rally-sweden-stages-confirmed-for-assetto-corsa-rallys-v0-7-update/"
+  },
+  {
+   "game": "rFactor 2",
+   "kind": "official",
+   "title": "rFactor 2 Community Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702690134"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
+   "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/"
+  }
+ ],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -216,6 +245,34 @@
    "title": "Drive the GEN4 in Assetto Corsa | Official Trailer",
    "url": "https://www.reddit.com/r/simracing/comments/1xwhrm5/drive_the_gen4_in_assetto_corsa_official_trailer/",
    "sentAt": 1794706804373
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "THIS WEEK: iRacing SCCA Runoffs | Special Event",
+   "url": "https://www.iracing.com/this-week-iracing-scca-runoffs-special-event/",
+   "sentAt": 1794846006339
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Laser-scanned Rally Sweden stages confirmed for Assetto Corsa Rally’s V0.7 update",
+   "url": "https://traxion.gg/laser-scanned-rally-sweden-stages-confirmed-for-assetto-corsa-rallys-v0-7-update/",
+   "sentAt": 1794846006339
+  },
+  {
+   "game": "rFactor 2",
+   "kind": "official",
+   "title": "rFactor 2 Community Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702690134",
+   "sentAt": 1794846006339
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
+   "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/",
+   "sentAt": 1794846006339
   }
  ],
  "lastDigest": "2026-11-16",
