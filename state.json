@@ -133,7 +133,8 @@
   "steam:1849458702690134": 1794846006339,
   "r-simracing:t3_1xxtceq": 1794846006339,
   "traxion:https://traxion.gg/?p=110050": 1794850636349,
-  "iracing-web:https://www.iracing.com/?p=292872": 1794850636349
+  "iracing-web:https://www.iracing.com/?p=292872": 1794850636349,
+  "traxion:https://traxion.gg/?p=110061": 1794853745437
  },
  "seededSources": [
   "steamnews:acevo",
@@ -243,6 +244,12 @@
    "kind": "official",
    "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 1 at Volusia Speedway Park",
    "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-1-at-volusia-speedway-park/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "FIA teases upcoming Cross Car Cup esports competition",
+   "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/"
   }
  ],
  "recent": [
@@ -301,6 +308,13 @@
    "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 1 at Volusia Speedway Park",
    "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-1-at-volusia-speedway-park/",
    "sentAt": 1794850636349
+  },
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "FIA teases upcoming Cross Car Cup esports competition",
+   "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/",
+   "sentAt": 1794853745437
   }
  ],
  "lastDigest": "2026-11-16",
