@@ -131,7 +131,9 @@
   "iracing-web:https://www.iracing.com/?p=292865": 1794846006339,
   "traxion:https://traxion.gg/?p=110042": 1794846006339,
   "steam:1849458702690134": 1794846006339,
-  "r-simracing:t3_1xxtceq": 1794846006339
+  "r-simracing:t3_1xxtceq": 1794846006339,
+  "traxion:https://traxion.gg/?p=110050": 1794850636349,
+  "iracing-web:https://www.iracing.com/?p=292872": 1794850636349
  },
  "seededSources": [
   "steamnews:acevo",
@@ -229,6 +231,18 @@
    "kind": "advance",
    "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
    "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/"
+  },
+  {
+   "game": "rFactor 2",
+   "kind": "advance",
+   "title": "RaceControl multiplayer platform to be removed from rFactor 2, Nürburgring DLC faces delisting",
+   "url": "https://traxion.gg/racecontrol-multiplayer-platform-to-be-removed-from-rfactor-2-nurburgring-dlc-faces-delisting/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 1 at Volusia Speedway Park",
+   "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-1-at-volusia-speedway-park/"
   }
  ],
  "recent": [
@@ -273,6 +287,20 @@
    "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
    "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/",
    "sentAt": 1794846006339
+  },
+  {
+   "game": "rFactor 2",
+   "kind": "advance",
+   "title": "RaceControl multiplayer platform to be removed from rFactor 2, Nürburgring DLC faces delisting",
+   "url": "https://traxion.gg/racecontrol-multiplayer-platform-to-be-removed-from-rfactor-2-nurburgring-dlc-faces-delisting/",
+   "sentAt": 1794850636349
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 1 at Volusia Speedway Park",
+   "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-1-at-volusia-speedway-park/",
+   "sentAt": 1794850636349
   }
  ],
  "lastDigest": "2026-11-16",
