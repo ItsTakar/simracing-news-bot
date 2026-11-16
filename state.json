@@ -134,7 +134,8 @@
   "r-simracing:t3_1xxtceq": 1794846006339,
   "traxion:https://traxion.gg/?p=110050": 1794850636349,
   "iracing-web:https://www.iracing.com/?p=292872": 1794850636349,
-  "traxion:https://traxion.gg/?p=110061": 1794853745437
+  "traxion:https://traxion.gg/?p=110061": 1794853745437,
+  "iracing-web:https://www.iracing.com/?p=292862": 1794857253226
  },
  "seededSources": [
   "steamnews:acevo",
@@ -250,6 +251,12 @@
    "kind": "advance",
    "title": "FIA teases upcoming Cross Car Cup esports competition",
    "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Alejandro Sánchez, Remy Gilbert split FIA F4 Global Esports Championship presented by MOZA wins at Summit Point, Oulton Park",
+   "url": "https://www.iracing.com/alejandro-sanchez-remy-gilbert-split-fia-f4-global-esports-championship-presented-by-moza-wins-at-summit-point-oulton-park/"
   }
  ],
  "recent": [
@@ -315,6 +322,13 @@
    "title": "FIA teases upcoming Cross Car Cup esports competition",
    "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/",
    "sentAt": 1794853745437
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Alejandro Sánchez, Remy Gilbert split FIA F4 Global Esports Championship presented by MOZA wins at Summit Point, Oulton Park",
+   "url": "https://www.iracing.com/alejandro-sanchez-remy-gilbert-split-fia-f4-global-esports-championship-presented-by-moza-wins-at-summit-point-oulton-park/",
+   "sentAt": 1794857253226
   }
  ],
  "lastDigest": "2026-11-16",
