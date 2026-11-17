@@ -211,68 +211,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "THIS WEEK: iRacing SCCA Runoffs | Special Event",
-   "url": "https://www.iracing.com/this-week-iracing-scca-runoffs-special-event/"
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Laser-scanned Rally Sweden stages confirmed for Assetto Corsa Rally’s V0.7 update",
-   "url": "https://traxion.gg/laser-scanned-rally-sweden-stages-confirmed-for-assetto-corsa-rallys-v0-7-update/"
-  },
-  {
-   "game": "rFactor 2",
-   "kind": "official",
-   "title": "rFactor 2 Community Update",
-   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702690134"
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
-   "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/"
-  },
-  {
-   "game": "rFactor 2",
-   "kind": "advance",
-   "title": "RaceControl multiplayer platform to be removed from rFactor 2, Nürburgring DLC faces delisting",
-   "url": "https://traxion.gg/racecontrol-multiplayer-platform-to-be-removed-from-rfactor-2-nurburgring-dlc-faces-delisting/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 1 at Volusia Speedway Park",
-   "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-1-at-volusia-speedway-park/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "advance",
-   "title": "FIA teases upcoming Cross Car Cup esports competition",
-   "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "Alejandro Sánchez, Remy Gilbert split FIA F4 Global Esports Championship presented by MOZA wins at Summit Point, Oulton Park",
-   "url": "https://www.iracing.com/alejandro-sanchez-remy-gilbert-split-fia-f4-global-esports-championship-presented-by-moza-wins-at-summit-point-oulton-park/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "This Week in iRacing | November 17th to November 23rd, 2026",
-   "url": "https://www.iracing.com/this-week-in-iracing-november-17th-to-november-23rd-2026/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "advance",
-   "title": "My First Race of the Season at Road Atlanta | Iracing Fanatace GT3 Chall...",
-   "url": "https://www.reddit.com/r/simracing/comments/1xy46q6/my_first_race_of_the_season_at_road_atlanta/"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -359,7 +298,7 @@
    "sentAt": 1794870636973
   }
  ],
- "lastDigest": "2026-11-16",
+ "lastDigest": "2026-11-17",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
