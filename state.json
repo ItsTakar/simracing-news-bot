@@ -139,7 +139,8 @@
   "iracing-web:https://www.iracing.com/?p=292877": 1794868045078,
   "r-simracing:t3_1xy46q6": 1794870636973,
   "r-simracing:t3_1xymv04": 1794929380490,
-  "iracing-web:https://www.iracing.com/?p=292901": 1794936437234
+  "iracing-web:https://www.iracing.com/?p=292901": 1794936437234,
+  "traxion:https://traxion.gg/?p=110071": 1794943712108
  },
  "seededSources": [
   "steamnews:acevo",
@@ -225,6 +226,12 @@
    "kind": "official",
    "title": "Aiden Stull kicks off 2026 World of Outlaws Pro Series Sprint Car Championship with maiden win at Volusia",
    "url": "https://www.iracing.com/aiden-stull-kicks-off-2026-world-of-outlaws-pro-series-sprint-car-championship-with-maiden-win-at-volusia/"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally’s next update arrives 19th November",
+   "url": "https://traxion.gg/assetto-corsa-rallys-next-update-arrives-19th-november/"
   }
  ],
  "recent": [
@@ -325,6 +332,13 @@
    "title": "Aiden Stull kicks off 2026 World of Outlaws Pro Series Sprint Car Championship with maiden win at Volusia",
    "url": "https://www.iracing.com/aiden-stull-kicks-off-2026-world-of-outlaws-pro-series-sprint-car-championship-with-maiden-win-at-volusia/",
    "sentAt": 1794936437234
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally’s next update arrives 19th November",
+   "url": "https://traxion.gg/assetto-corsa-rallys-next-update-arrives-19th-november/",
+   "sentAt": 1794943712108
   }
  ],
  "lastDigest": "2026-11-17",
