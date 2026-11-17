@@ -137,7 +137,8 @@
   "traxion:https://traxion.gg/?p=110061": 1794853745437,
   "iracing-web:https://www.iracing.com/?p=292862": 1794857253226,
   "iracing-web:https://www.iracing.com/?p=292877": 1794868045078,
-  "r-simracing:t3_1xy46q6": 1794870636973
+  "r-simracing:t3_1xy46q6": 1794870636973,
+  "r-simracing:t3_1xymv04": 1794929380490
  },
  "seededSources": [
   "steamnews:acevo",
@@ -211,7 +212,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
+   "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/"
+  }
+ ],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -296,6 +304,13 @@
    "title": "My First Race of the Season at Road Atlanta | Iracing Fanatace GT3 Chall...",
    "url": "https://www.reddit.com/r/simracing/comments/1xy46q6/my_first_race_of_the_season_at_road_atlanta/",
    "sentAt": 1794870636973
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
+   "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/",
+   "sentAt": 1794929380490
   }
  ],
  "lastDigest": "2026-11-17",
