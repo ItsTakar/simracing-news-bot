@@ -138,7 +138,8 @@
   "iracing-web:https://www.iracing.com/?p=292862": 1794857253226,
   "iracing-web:https://www.iracing.com/?p=292877": 1794868045078,
   "r-simracing:t3_1xy46q6": 1794870636973,
-  "r-simracing:t3_1xymv04": 1794929380490
+  "r-simracing:t3_1xymv04": 1794929380490,
+  "iracing-web:https://www.iracing.com/?p=292901": 1794936437234
  },
  "seededSources": [
   "steamnews:acevo",
@@ -218,6 +219,12 @@
    "kind": "advance",
    "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
    "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Aiden Stull kicks off 2026 World of Outlaws Pro Series Sprint Car Championship with maiden win at Volusia",
+   "url": "https://www.iracing.com/aiden-stull-kicks-off-2026-world-of-outlaws-pro-series-sprint-car-championship-with-maiden-win-at-volusia/"
   }
  ],
  "recent": [
@@ -311,6 +318,13 @@
    "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
    "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/",
    "sentAt": 1794929380490
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Aiden Stull kicks off 2026 World of Outlaws Pro Series Sprint Car Championship with maiden win at Volusia",
+   "url": "https://www.iracing.com/aiden-stull-kicks-off-2026-world-of-outlaws-pro-series-sprint-car-championship-with-maiden-win-at-volusia/",
+   "sentAt": 1794936437234
   }
  ],
  "lastDigest": "2026-11-17",
