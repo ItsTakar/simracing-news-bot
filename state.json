@@ -214,26 +214,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
-   "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "Aiden Stull kicks off 2026 World of Outlaws Pro Series Sprint Car Championship with maiden win at Volusia",
-   "url": "https://www.iracing.com/aiden-stull-kicks-off-2026-world-of-outlaws-pro-series-sprint-car-championship-with-maiden-win-at-volusia/"
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Assetto Corsa Rally’s next update arrives 19th November",
-   "url": "https://traxion.gg/assetto-corsa-rallys-next-update-arrives-19th-november/"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -341,7 +322,7 @@
    "sentAt": 1794943712108
   }
  ],
- "lastDigest": "2026-11-17",
+ "lastDigest": "2026-11-18",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
