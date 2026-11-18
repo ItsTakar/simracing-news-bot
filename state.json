@@ -140,7 +140,8 @@
   "r-simracing:t3_1xy46q6": 1794870636973,
   "r-simracing:t3_1xymv04": 1794929380490,
   "iracing-web:https://www.iracing.com/?p=292901": 1794936437234,
-  "traxion:https://traxion.gg/?p=110071": 1794943712108
+  "traxion:https://traxion.gg/?p=110071": 1794943712108,
+  "simracinginfo:6aa66a4717aa4c0001f84204": 1794983933022
  },
  "seededSources": [
   "steamnews:acevo",
@@ -214,7 +215,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "Le Mans Ultimate",
+   "kind": "advance",
+   "title": "Le Mans Ultimate 1.4: The current State of Play",
+   "url": "https://www.simracinginfo.com/le-mans-ultimate-1-4-the-current-state-of-play/"
+  }
+ ],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -320,6 +328,13 @@
    "title": "Assetto Corsa Rally’s next update arrives 19th November",
    "url": "https://traxion.gg/assetto-corsa-rallys-next-update-arrives-19th-november/",
    "sentAt": 1794943712108
+  },
+  {
+   "game": "Le Mans Ultimate",
+   "kind": "advance",
+   "title": "Le Mans Ultimate 1.4: The current State of Play",
+   "url": "https://www.simracinginfo.com/le-mans-ultimate-1-4-the-current-state-of-play/",
+   "sentAt": 1794983933022
   }
  ],
  "lastDigest": "2026-11-18",
