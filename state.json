@@ -143,7 +143,8 @@
   "traxion:https://traxion.gg/?p=110071": 1794943712108,
   "simracinginfo:6aa66a4717aa4c0001f84204": 1794983933022,
   "iracing-web:https://www.iracing.com/?p=292935": 1795016035811,
-  "steam:1849827110425106": 1795023302806
+  "steam:1849827110425106": 1795023302806,
+  "iracing-web:https://www.iracing.com/?p=292938": 1795040039538
  },
  "seededSources": [
   "steamnews:acevo",
@@ -235,6 +236,12 @@
    "kind": "official",
    "title": "What's Coming in Update 0.7 of the Early Access for Assetto Corsa Rally",
    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425106"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 18th to November 25th, 2026",
+   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-18th-to-november-25th-2026/"
   }
  ],
  "recent": [
@@ -363,6 +370,13 @@
    "title": "What's Coming in Update 0.7 of the Early Access for Assetto Corsa Rally",
    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425106",
    "sentAt": 1795023302806
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 18th to November 25th, 2026",
+   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-18th-to-november-25th-2026/",
+   "sentAt": 1795040039538
   }
  ],
  "lastDigest": "2026-11-18",
