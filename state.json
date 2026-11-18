@@ -142,7 +142,8 @@
   "iracing-web:https://www.iracing.com/?p=292901": 1794936437234,
   "traxion:https://traxion.gg/?p=110071": 1794943712108,
   "simracinginfo:6aa66a4717aa4c0001f84204": 1794983933022,
-  "iracing-web:https://www.iracing.com/?p=292935": 1795016035811
+  "iracing-web:https://www.iracing.com/?p=292935": 1795016035811,
+  "steam:1849827110425106": 1795023302806
  },
  "seededSources": [
   "steamnews:acevo",
@@ -228,6 +229,12 @@
    "kind": "official",
    "title": "2026-27 eNASCAR College iRacing Series | Great Lakes Gauntlet at Michigan | Week 2 Tournament Preview",
    "url": "https://www.iracing.com/2026-27-enascar-college-iracing-series-great-lakes-gauntlet-at-michigan-week-2-tournament-preview/"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "official",
+   "title": "What's Coming in Update 0.7 of the Early Access for Assetto Corsa Rally",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425106"
   }
  ],
  "recent": [
@@ -349,6 +356,13 @@
    "title": "2026-27 eNASCAR College iRacing Series | Great Lakes Gauntlet at Michigan | Week 2 Tournament Preview",
    "url": "https://www.iracing.com/2026-27-enascar-college-iracing-series-great-lakes-gauntlet-at-michigan-week-2-tournament-preview/",
    "sentAt": 1795016035811
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "official",
+   "title": "What's Coming in Update 0.7 of the Early Access for Assetto Corsa Rally",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425106",
+   "sentAt": 1795023302806
   }
  ],
  "lastDigest": "2026-11-18",
