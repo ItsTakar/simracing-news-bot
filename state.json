@@ -141,7 +141,8 @@
   "r-simracing:t3_1xymv04": 1794929380490,
   "iracing-web:https://www.iracing.com/?p=292901": 1794936437234,
   "traxion:https://traxion.gg/?p=110071": 1794943712108,
-  "simracinginfo:6aa66a4717aa4c0001f84204": 1794983933022
+  "simracinginfo:6aa66a4717aa4c0001f84204": 1794983933022,
+  "iracing-web:https://www.iracing.com/?p=292935": 1795016035811
  },
  "seededSources": [
   "steamnews:acevo",
@@ -221,6 +222,12 @@
    "kind": "advance",
    "title": "Le Mans Ultimate 1.4: The current State of Play",
    "url": "https://www.simracinginfo.com/le-mans-ultimate-1-4-the-current-state-of-play/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026-27 eNASCAR College iRacing Series | Great Lakes Gauntlet at Michigan | Week 2 Tournament Preview",
+   "url": "https://www.iracing.com/2026-27-enascar-college-iracing-series-great-lakes-gauntlet-at-michigan-week-2-tournament-preview/"
   }
  ],
  "recent": [
@@ -335,6 +342,13 @@
    "title": "Le Mans Ultimate 1.4: The current State of Play",
    "url": "https://www.simracinginfo.com/le-mans-ultimate-1-4-the-current-state-of-play/",
    "sentAt": 1794983933022
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026-27 eNASCAR College iRacing Series | Great Lakes Gauntlet at Michigan | Week 2 Tournament Preview",
+   "url": "https://www.iracing.com/2026-27-enascar-college-iracing-series-great-lakes-gauntlet-at-michigan-week-2-tournament-preview/",
+   "sentAt": 1795016035811
   }
  ],
  "lastDigest": "2026-11-18",
