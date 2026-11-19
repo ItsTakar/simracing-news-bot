@@ -145,7 +145,8 @@
   "iracing-web:https://www.iracing.com/?p=292935": 1795016035811,
   "steam:1849827110425106": 1795023302806,
   "iracing-web:https://www.iracing.com/?p=292938": 1795040039538,
-  "iracing-web:https://www.iracing.com/?p=292947": 1795053303411
+  "iracing-web:https://www.iracing.com/?p=292947": 1795053303411,
+  "traxion:https://traxion.gg/?p=110176": 1795081647667
  },
  "seededSources": [
   "steamnews:acevo",
@@ -219,7 +220,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "iRacing’s career mode arrives in December",
+   "url": "https://traxion.gg/iracings-career-mode-arrives-in-december/"
+  }
+ ],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -360,6 +368,13 @@
    "title": "Introducing iRacing Career Mode",
    "url": "https://www.iracing.com/introducing-iracing-career-mode/",
    "sentAt": 1795053303411
+  },
+  {
+   "game": "iRacing",
+   "kind": "advance",
+   "title": "iRacing’s career mode arrives in December",
+   "url": "https://traxion.gg/iracings-career-mode-arrives-in-december/",
+   "sentAt": 1795081647667
   }
  ],
  "lastDigest": "2026-11-19",
