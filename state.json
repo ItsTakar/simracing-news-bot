@@ -148,7 +148,9 @@
   "iracing-web:https://www.iracing.com/?p=292947": 1795053303411,
   "traxion:https://traxion.gg/?p=110176": 1795081647667,
   "iracing-web:https://www.iracing.com/?p=292917": 1795099276880,
-  "traxion:https://traxion.gg/?p=110090": 1795102623299
+  "traxion:https://traxion.gg/?p=110090": 1795102623299,
+  "steam:1849827110428676": 1795106455854,
+  "iracing-web:https://www.iracing.com/?p=292951": 1795106455854
  },
  "seededSources": [
   "steamnews:acevo",
@@ -240,6 +242,18 @@
    "kind": "advance",
    "title": "Assetto Corsa Rally V0.7 verdict: Double Lancia delight but snow stars",
    "url": "https://traxion.gg/assetto-corsa-rally-v0-7-verdict-double-lancia-delight-but-snow-stars/"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "official",
+   "title": "Update 0.7 of Assetto Corsa Rally is OUT NOW",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110428676"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Calgary’s Connor Yeroschak returns to eNASCAR College iRacing Series victory lane in Great Lakes Gauntlet at Michigan",
+   "url": "https://www.iracing.com/calgarys-connor-yeroschak-returns-to-enascar-college-iracing-series-victory-lane-in-great-lakes-gauntlet-at-michigan/"
   }
  ],
  "recent": [
@@ -403,6 +417,20 @@
    "title": "Assetto Corsa Rally V0.7 verdict: Double Lancia delight but snow stars",
    "url": "https://traxion.gg/assetto-corsa-rally-v0-7-verdict-double-lancia-delight-but-snow-stars/",
    "sentAt": 1795102623299
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "official",
+   "title": "Update 0.7 of Assetto Corsa Rally is OUT NOW",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110428676",
+   "sentAt": 1795106455854
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Calgary’s Connor Yeroschak returns to eNASCAR College iRacing Series victory lane in Great Lakes Gauntlet at Michigan",
+   "url": "https://www.iracing.com/calgarys-connor-yeroschak-returns-to-enascar-college-iracing-series-victory-lane-in-great-lakes-gauntlet-at-michigan/",
+   "sentAt": 1795106455854
   }
  ],
  "lastDigest": "2026-11-19",
