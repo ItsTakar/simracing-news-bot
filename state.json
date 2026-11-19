@@ -147,7 +147,8 @@
   "iracing-web:https://www.iracing.com/?p=292938": 1795040039538,
   "iracing-web:https://www.iracing.com/?p=292947": 1795053303411,
   "traxion:https://traxion.gg/?p=110176": 1795081647667,
-  "iracing-web:https://www.iracing.com/?p=292917": 1795099276880
+  "iracing-web:https://www.iracing.com/?p=292917": 1795099276880,
+  "traxion:https://traxion.gg/?p=110090": 1795102623299
  },
  "seededSources": [
   "steamnews:acevo",
@@ -233,6 +234,12 @@
    "kind": "official",
    "title": "Pi Toolbox meets ONE TIMING: what you get in iRacing, and how to save 20% this Black Friday",
    "url": "https://www.iracing.com/pi-toolbox-meets-one-timing-what-you-get-in-iracing-and-how-to-save-20-this-black-friday/"
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally V0.7 verdict: Double Lancia delight but snow stars",
+   "url": "https://traxion.gg/assetto-corsa-rally-v0-7-verdict-double-lancia-delight-but-snow-stars/"
   }
  ],
  "recent": [
@@ -389,6 +396,13 @@
    "title": "Pi Toolbox meets ONE TIMING: what you get in iRacing, and how to save 20% this Black Friday",
    "url": "https://www.iracing.com/pi-toolbox-meets-one-timing-what-you-get-in-iracing-and-how-to-save-20-this-black-friday/",
    "sentAt": 1795099276880
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Assetto Corsa Rally V0.7 verdict: Double Lancia delight but snow stars",
+   "url": "https://traxion.gg/assetto-corsa-rally-v0-7-verdict-double-lancia-delight-but-snow-stars/",
+   "sentAt": 1795102623299
   }
  ],
  "lastDigest": "2026-11-19",
