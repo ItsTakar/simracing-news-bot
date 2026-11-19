@@ -146,7 +146,8 @@
   "steam:1849827110425106": 1795023302806,
   "iracing-web:https://www.iracing.com/?p=292938": 1795040039538,
   "iracing-web:https://www.iracing.com/?p=292947": 1795053303411,
-  "traxion:https://traxion.gg/?p=110176": 1795081647667
+  "traxion:https://traxion.gg/?p=110176": 1795081647667,
+  "iracing-web:https://www.iracing.com/?p=292917": 1795099276880
  },
  "seededSources": [
   "steamnews:acevo",
@@ -226,6 +227,12 @@
    "kind": "advance",
    "title": "iRacing’s career mode arrives in December",
    "url": "https://traxion.gg/iracings-career-mode-arrives-in-december/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Pi Toolbox meets ONE TIMING: what you get in iRacing, and how to save 20% this Black Friday",
+   "url": "https://www.iracing.com/pi-toolbox-meets-one-timing-what-you-get-in-iracing-and-how-to-save-20-this-black-friday/"
   }
  ],
  "recent": [
@@ -375,6 +382,13 @@
    "title": "iRacing’s career mode arrives in December",
    "url": "https://traxion.gg/iracings-career-mode-arrives-in-december/",
    "sentAt": 1795081647667
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Pi Toolbox meets ONE TIMING: what you get in iRacing, and how to save 20% this Black Friday",
+   "url": "https://www.iracing.com/pi-toolbox-meets-one-timing-what-you-get-in-iracing-and-how-to-save-20-this-black-friday/",
+   "sentAt": 1795099276880
   }
  ],
  "lastDigest": "2026-11-19",
