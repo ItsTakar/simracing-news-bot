@@ -151,7 +151,8 @@
   "traxion:https://traxion.gg/?p=110090": 1795102623299,
   "steam:1849827110428676": 1795106455854,
   "iracing-web:https://www.iracing.com/?p=292951": 1795106455854,
-  "iracing-web:https://www.iracing.com/?p=292975": 1795188953791
+  "iracing-web:https://www.iracing.com/?p=292975": 1795188953791,
+  "iracing-web:https://www.iracing.com/?p=292983": 1795203559095
  },
  "seededSources": [
   "steamnews:acevo",
@@ -231,6 +232,12 @@
    "kind": "official",
    "title": "2026 FIA F4 Global Esports Championship Presented by MOZA | Finale Preview | Races 7 & 8",
    "url": "https://www.iracing.com/2026-fia-f4-global-esports-championship-presented-by-moza-finale-preview-races-7-8/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026 IMSA Esports Global Championship | Daytona Int’l Speedway | AMD 240 Preview",
+   "url": "https://www.iracing.com/2026-imsa-esports-global-championship-daytona-intl-speedway-amd-240-preview/"
   }
  ],
  "recent": [
@@ -415,6 +422,13 @@
    "title": "2026 FIA F4 Global Esports Championship Presented by MOZA | Finale Preview | Races 7 & 8",
    "url": "https://www.iracing.com/2026-fia-f4-global-esports-championship-presented-by-moza-finale-preview-races-7-8/",
    "sentAt": 1795188953791
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026 IMSA Esports Global Championship | Daytona Int’l Speedway | AMD 240 Preview",
+   "url": "https://www.iracing.com/2026-imsa-esports-global-championship-daytona-intl-speedway-amd-240-preview/",
+   "sentAt": 1795203559095
   }
  ],
  "lastDigest": "2026-11-20",
