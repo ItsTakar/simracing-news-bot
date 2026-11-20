@@ -224,38 +224,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "iRacing",
-   "kind": "advance",
-   "title": "iRacing’s career mode arrives in December",
-   "url": "https://traxion.gg/iracings-career-mode-arrives-in-december/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "Pi Toolbox meets ONE TIMING: what you get in iRacing, and how to save 20% this Black Friday",
-   "url": "https://www.iracing.com/pi-toolbox-meets-one-timing-what-you-get-in-iracing-and-how-to-save-20-this-black-friday/"
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Assetto Corsa Rally V0.7 verdict: Double Lancia delight but snow stars",
-   "url": "https://traxion.gg/assetto-corsa-rally-v0-7-verdict-double-lancia-delight-but-snow-stars/"
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "official",
-   "title": "Update 0.7 of Assetto Corsa Rally is OUT NOW",
-   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110428676"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "Calgary’s Connor Yeroschak returns to eNASCAR College iRacing Series victory lane in Great Lakes Gauntlet at Michigan",
-   "url": "https://www.iracing.com/calgarys-connor-yeroschak-returns-to-enascar-college-iracing-series-victory-lane-in-great-lakes-gauntlet-at-michigan/"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "Assetto Corsa",
@@ -433,7 +402,7 @@
    "sentAt": 1795106455854
   }
  ],
- "lastDigest": "2026-11-19",
+ "lastDigest": "2026-11-20",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
