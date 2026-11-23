@@ -154,7 +154,8 @@
   "iracing-web:https://www.iracing.com/?p=292975": 1795188953791,
   "iracing-web:https://www.iracing.com/?p=292983": 1795203559095,
   "iracing-web:https://www.iracing.com/?p=293005": 1795445680686,
-  "iracing-web:https://www.iracing.com/?p=293001": 1795452256477
+  "iracing-web:https://www.iracing.com/?p=293001": 1795452256477,
+  "iracing-web:https://www.iracing.com/?p=292997": 1795458618481
  },
  "seededSources": [
   "steamnews:acevo",
@@ -240,16 +241,15 @@
    "kind": "official",
    "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 2 at Huset’s Speedway",
    "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-2-at-husets-speedway/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Dan Amor crowned 2026 FIA F4 Global Esports Championship presented by MOZA Champion",
+   "url": "https://www.iracing.com/dan-amor-crowned-2026-fia-f4-global-esports-championship-presented-by-moza-champion/"
   }
  ],
  "recent": [
-  {
-   "game": "iRacing",
-   "kind": "advance",
-   "title": "FIA teases upcoming Cross Car Cup esports competition",
-   "url": "https://traxion.gg/fia-teases-upcoming-cross-car-cup-esports-competition/",
-   "sentAt": 1794853745437
-  },
   {
    "game": "iRacing",
    "kind": "official",
@@ -389,6 +389,13 @@
    "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 2 at Huset’s Speedway",
    "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-2-at-husets-speedway/",
    "sentAt": 1795452256477
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Dan Amor crowned 2026 FIA F4 Global Esports Championship presented by MOZA Champion",
+   "url": "https://www.iracing.com/dan-amor-crowned-2026-fia-f4-global-esports-championship-presented-by-moza-champion/",
+   "sentAt": 1795458618481
   }
  ],
  "lastDigest": "2026-11-23",
