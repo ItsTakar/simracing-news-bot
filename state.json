@@ -156,7 +156,8 @@
   "iracing-web:https://www.iracing.com/?p=293005": 1795445680686,
   "iracing-web:https://www.iracing.com/?p=293001": 1795452256477,
   "iracing-web:https://www.iracing.com/?p=292997": 1795458618481,
-  "iracing-web:https://www.iracing.com/?p=292996": 1795468564333
+  "iracing-web:https://www.iracing.com/?p=292996": 1795468564333,
+  "iracing-web:https://www.iracing.com/?p=293000": 1795472054736
  },
  "seededSources": [
   "steamnews:acevo",
@@ -254,6 +255,12 @@
    "kind": "official",
    "title": "Verstappen Sim Racing, Bleu Mercure Esport collect 2026 IMSA Esports Global Championship titles",
    "url": "https://www.iracing.com/verstappen-sim-racing-bleu-mercure-esport-collect-2026-imsa-esports-global-championship-titles/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "This Week in iRacing | November 24th to November 30th, 2026",
+   "url": "https://www.iracing.com/this-week-in-iracing-november-24th-to-november-30th-2026/"
   }
  ],
  "recent": [
@@ -403,6 +410,13 @@
    "title": "Verstappen Sim Racing, Bleu Mercure Esport collect 2026 IMSA Esports Global Championship titles",
    "url": "https://www.iracing.com/verstappen-sim-racing-bleu-mercure-esport-collect-2026-imsa-esports-global-championship-titles/",
    "sentAt": 1795468564333
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "This Week in iRacing | November 24th to November 30th, 2026",
+   "url": "https://www.iracing.com/this-week-in-iracing-november-24th-to-november-30th-2026/",
+   "sentAt": 1795472054736
   }
  ],
  "lastDigest": "2026-11-23",
