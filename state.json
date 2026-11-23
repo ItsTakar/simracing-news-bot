@@ -153,7 +153,8 @@
   "iracing-web:https://www.iracing.com/?p=292951": 1795106455854,
   "iracing-web:https://www.iracing.com/?p=292975": 1795188953791,
   "iracing-web:https://www.iracing.com/?p=292983": 1795203559095,
-  "iracing-web:https://www.iracing.com/?p=293005": 1795445680686
+  "iracing-web:https://www.iracing.com/?p=293005": 1795445680686,
+  "iracing-web:https://www.iracing.com/?p=293001": 1795452256477
  },
  "seededSources": [
   "steamnews:acevo",
@@ -233,37 +234,15 @@
    "kind": "official",
    "title": "THIS WEEK: iRacing Creventic 992 Endurance Cup | Special Event",
    "url": "https://www.iracing.com/this-week-iracing-creventic-992-endurance-cup-special-event/"
-  }
- ],
- "recent": [
+  },
   {
    "game": "iRacing",
    "kind": "official",
-   "title": "THIS WEEK: iRacing SCCA Runoffs | Special Event",
-   "url": "https://www.iracing.com/this-week-iracing-scca-runoffs-special-event/",
-   "sentAt": 1794846006339
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Laser-scanned Rally Sweden stages confirmed for Assetto Corsa Rally’s V0.7 update",
-   "url": "https://traxion.gg/laser-scanned-rally-sweden-stages-confirmed-for-assetto-corsa-rallys-v0-7-update/",
-   "sentAt": 1794846006339
-  },
-  {
-   "game": "rFactor 2",
-   "kind": "official",
-   "title": "rFactor 2 Community Update",
-   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702690134",
-   "sentAt": 1794846006339
-  },
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Winter holiday in Sweden coming up! AC Rally confirmed Vargåsen & Fredriksberg",
-   "url": "https://www.reddit.com/r/simracing/comments/1xxtceq/winter_holiday_in_sweden_coming_up_ac_rally/",
-   "sentAt": 1794846006339
-  },
+   "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 2 at Huset’s Speedway",
+   "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-2-at-husets-speedway/"
+  }
+ ],
+ "recent": [
   {
    "game": "rFactor 2",
    "kind": "advance",
@@ -417,6 +396,13 @@
    "title": "THIS WEEK: iRacing Creventic 992 Endurance Cup | Special Event",
    "url": "https://www.iracing.com/this-week-iracing-creventic-992-endurance-cup-special-event/",
    "sentAt": 1795445680686
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "2026 World of Outlaws Pro Series Sprint Car Championship | Preview | Race 2 at Huset’s Speedway",
+   "url": "https://www.iracing.com/2026-world-of-outlaws-pro-series-sprint-car-championship-preview-race-2-at-husets-speedway/",
+   "sentAt": 1795452256477
   }
  ],
  "lastDigest": "2026-11-23",
