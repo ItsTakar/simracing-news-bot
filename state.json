@@ -155,7 +155,8 @@
   "iracing-web:https://www.iracing.com/?p=292983": 1795203559095,
   "iracing-web:https://www.iracing.com/?p=293005": 1795445680686,
   "iracing-web:https://www.iracing.com/?p=293001": 1795452256477,
-  "iracing-web:https://www.iracing.com/?p=292997": 1795458618481
+  "iracing-web:https://www.iracing.com/?p=292997": 1795458618481,
+  "iracing-web:https://www.iracing.com/?p=292996": 1795468564333
  },
  "seededSources": [
   "steamnews:acevo",
@@ -247,6 +248,12 @@
    "kind": "official",
    "title": "Dan Amor crowned 2026 FIA F4 Global Esports Championship presented by MOZA Champion",
    "url": "https://www.iracing.com/dan-amor-crowned-2026-fia-f4-global-esports-championship-presented-by-moza-champion/"
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Verstappen Sim Racing, Bleu Mercure Esport collect 2026 IMSA Esports Global Championship titles",
+   "url": "https://www.iracing.com/verstappen-sim-racing-bleu-mercure-esport-collect-2026-imsa-esports-global-championship-titles/"
   }
  ],
  "recent": [
@@ -389,6 +396,13 @@
    "title": "Dan Amor crowned 2026 FIA F4 Global Esports Championship presented by MOZA Champion",
    "url": "https://www.iracing.com/dan-amor-crowned-2026-fia-f4-global-esports-championship-presented-by-moza-champion/",
    "sentAt": 1795458618481
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "Verstappen Sim Racing, Bleu Mercure Esport collect 2026 IMSA Esports Global Championship titles",
+   "url": "https://www.iracing.com/verstappen-sim-racing-bleu-mercure-esport-collect-2026-imsa-esports-global-championship-titles/",
+   "sentAt": 1795468564333
   }
  ],
  "lastDigest": "2026-11-23",
