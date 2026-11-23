@@ -152,7 +152,8 @@
   "steam:1849827110428676": 1795106455854,
   "iracing-web:https://www.iracing.com/?p=292951": 1795106455854,
   "iracing-web:https://www.iracing.com/?p=292975": 1795188953791,
-  "iracing-web:https://www.iracing.com/?p=292983": 1795203559095
+  "iracing-web:https://www.iracing.com/?p=292983": 1795203559095,
+  "iracing-web:https://www.iracing.com/?p=293005": 1795445680686
  },
  "seededSources": [
   "steamnews:acevo",
@@ -226,7 +227,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "THIS WEEK: iRacing Creventic 992 Endurance Cup | Special Event",
+   "url": "https://www.iracing.com/this-week-iracing-creventic-992-endurance-cup-special-event/"
+  }
+ ],
  "recent": [
   {
    "game": "iRacing",
@@ -402,6 +410,13 @@
    "title": "2026 IMSA Esports Global Championship | Daytona Int’l Speedway | AMD 240 Preview",
    "url": "https://www.iracing.com/2026-imsa-esports-global-championship-daytona-intl-speedway-amd-240-preview/",
    "sentAt": 1795203559095
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "THIS WEEK: iRacing Creventic 992 Endurance Cup | Special Event",
+   "url": "https://www.iracing.com/this-week-iracing-creventic-992-endurance-cup-special-event/",
+   "sentAt": 1795445680686
   }
  ],
  "lastDigest": "2026-11-23",
