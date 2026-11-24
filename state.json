@@ -157,7 +157,8 @@
   "iracing-web:https://www.iracing.com/?p=293001": 1795452256477,
   "iracing-web:https://www.iracing.com/?p=292997": 1795458618481,
   "iracing-web:https://www.iracing.com/?p=292996": 1795468564333,
-  "iracing-web:https://www.iracing.com/?p=293000": 1795472054736
+  "iracing-web:https://www.iracing.com/?p=293000": 1795472054736,
+  "iracing-web:https://www.iracing.com/?p=293070": 1795534815133
  },
  "seededSources": [
   "steamnews:acevo",
@@ -231,15 +232,15 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
- "recent": [
+ "today": [
   {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "Assetto Corsa Rally 0.7 coming on November 19, Lancia Delta S4 & Evo2 confirmed",
-   "url": "https://www.reddit.com/r/simracing/comments/1xymv04/assetto_corsa_rally_07_coming_on_november_19/",
-   "sentAt": 1794929380490
-  },
+   "game": "iRacing",
+   "kind": "official",
+   "title": "JD Brown survives and wins wild night at Huset’s | 2026 World of Outlaws Pro Series Sprint Car Championship",
+   "url": "https://www.iracing.com/jd-brown-survives-and-wins-wild-night-at-husets-2026-world-of-outlaws-pro-series-sprint-car-championship/"
+  }
+ ],
+ "recent": [
   {
    "game": "iRacing",
    "kind": "official",
@@ -372,6 +373,13 @@
    "title": "This Week in iRacing | November 24th to November 30th, 2026",
    "url": "https://www.iracing.com/this-week-in-iracing-november-24th-to-november-30th-2026/",
    "sentAt": 1795472054736
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "JD Brown survives and wins wild night at Huset’s | 2026 World of Outlaws Pro Series Sprint Car Championship",
+   "url": "https://www.iracing.com/jd-brown-survives-and-wins-wild-night-at-husets-2026-world-of-outlaws-pro-series-sprint-car-championship/",
+   "sentAt": 1795534815133
   }
  ],
  "lastDigest": "2026-11-24",
