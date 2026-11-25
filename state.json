@@ -159,7 +159,8 @@
   "iracing-web:https://www.iracing.com/?p=292996": 1795468564333,
   "iracing-web:https://www.iracing.com/?p=293000": 1795472054736,
   "iracing-web:https://www.iracing.com/?p=293070": 1795534815133,
-  "traxion:https://traxion.gg/?p=110285": 1795598098786
+  "traxion:https://traxion.gg/?p=110285": 1795598098786,
+  "iracing-web:https://www.iracing.com/?p=293032": 1795645196966
  },
  "seededSources": [
   "steamnews:acevo",
@@ -239,16 +240,15 @@
    "kind": "advance",
    "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
    "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi/"
-  }
- ],
- "recent": [
+  },
   {
    "game": "iRacing",
    "kind": "official",
-   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 18th to November 25th, 2026",
-   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-18th-to-november-25th-2026/",
-   "sentAt": 1795040039538
-  },
+   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 26th to December 1st, 2026",
+   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-26th-to-december-1st-2026/"
+  }
+ ],
+ "recent": [
   {
    "game": "iRacing",
    "kind": "official",
@@ -353,6 +353,13 @@
    "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
    "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi/",
    "sentAt": 1795598098786
+  },
+  {
+   "game": "iRacing",
+   "kind": "official",
+   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 26th to December 1st, 2026",
+   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-26th-to-december-1st-2026/",
+   "sentAt": 1795645196966
   }
  ],
  "lastDigest": "2026-11-25",
