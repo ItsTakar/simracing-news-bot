@@ -158,7 +158,8 @@
   "iracing-web:https://www.iracing.com/?p=292997": 1795458618481,
   "iracing-web:https://www.iracing.com/?p=292996": 1795468564333,
   "iracing-web:https://www.iracing.com/?p=293000": 1795472054736,
-  "iracing-web:https://www.iracing.com/?p=293070": 1795534815133
+  "iracing-web:https://www.iracing.com/?p=293070": 1795534815133,
+  "traxion:https://traxion.gg/?p=110285": 1795598098786
  },
  "seededSources": [
   "steamnews:acevo",
@@ -232,7 +233,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
+   "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi/"
+  }
+ ],
  "recent": [
   {
    "game": "iRacing",
@@ -352,6 +360,13 @@
    "title": "JD Brown survives and wins wild night at Huset’s | 2026 World of Outlaws Pro Series Sprint Car Championship",
    "url": "https://www.iracing.com/jd-brown-survives-and-wins-wild-night-at-husets-2026-world-of-outlaws-pro-series-sprint-car-championship/",
    "sentAt": 1795534815133
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
+   "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi/",
+   "sentAt": 1795598098786
   }
  ],
  "lastDigest": "2026-11-25",
