@@ -232,14 +232,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "JD Brown survives and wins wild night at Huset’s | 2026 World of Outlaws Pro Series Sprint Car Championship",
-   "url": "https://www.iracing.com/jd-brown-survives-and-wins-wild-night-at-husets-2026-world-of-outlaws-pro-series-sprint-car-championship/"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "Le Mans Ultimate",
@@ -368,7 +361,7 @@
    "sentAt": 1795534815133
   }
  ],
- "lastDigest": "2026-11-24",
+ "lastDigest": "2026-11-25",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
