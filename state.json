@@ -234,20 +234,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "Assetto Corsa Rally",
-   "kind": "advance",
-   "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
-   "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi/"
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "iRacing Weekly Tune-in | eSports & Community Events | November 26th to December 1st, 2026",
-   "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-26th-to-december-1st-2026/"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "iRacing",
@@ -355,7 +342,7 @@
    "sentAt": 1795645196966
   }
  ],
- "lastDigest": "2026-11-25",
+ "lastDigest": "2026-11-26",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
