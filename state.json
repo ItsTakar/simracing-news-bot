@@ -160,7 +160,8 @@
   "iracing-web:https://www.iracing.com/?p=293000": 1795472054736,
   "iracing-web:https://www.iracing.com/?p=293070": 1795534815133,
   "traxion:https://traxion.gg/?p=110285": 1795598098786,
-  "iracing-web:https://www.iracing.com/?p=293032": 1795645196966
+  "iracing-web:https://www.iracing.com/?p=293032": 1795645196966,
+  "traxion:https://traxion.gg/?p=110356": 1795711941232
  },
  "seededSources": [
   "steamnews:acevo",
@@ -234,22 +235,15 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
- "recent": [
+ "today": [
   {
    "game": "Assetto Corsa Rally",
-   "kind": "official",
-   "title": "Update 0.7 of Assetto Corsa Rally is OUT NOW",
-   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110428676",
-   "sentAt": 1795106455854
-  },
-  {
-   "game": "iRacing",
-   "kind": "official",
-   "title": "Calgary’s Connor Yeroschak returns to eNASCAR College iRacing Series victory lane in Great Lakes Gauntlet at Michigan",
-   "url": "https://www.iracing.com/calgarys-connor-yeroschak-returns-to-enascar-college-iracing-series-victory-lane-in-great-lakes-gauntlet-at-michigan/",
-   "sentAt": 1795106455854
-  },
+   "kind": "advance",
+   "title": "Moza partners with FIA’s Assetto Corsa Rally esports competition",
+   "url": "https://traxion.gg/moza-partners-with-fias-assetto-corsa-rally-esports-competition/"
+  }
+ ],
+ "recent": [
   {
    "game": "iRacing",
    "kind": "official",
@@ -319,6 +313,13 @@
    "title": "iRacing Weekly Tune-in | eSports & Community Events | November 26th to December 1st, 2026",
    "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-26th-to-december-1st-2026/",
    "sentAt": 1795645196966
+  },
+  {
+   "game": "Assetto Corsa Rally",
+   "kind": "advance",
+   "title": "Moza partners with FIA’s Assetto Corsa Rally esports competition",
+   "url": "https://traxion.gg/moza-partners-with-fias-assetto-corsa-rally-esports-competition/",
+   "sentAt": 1795711941232
   }
  ],
  "lastDigest": "2026-11-26",
