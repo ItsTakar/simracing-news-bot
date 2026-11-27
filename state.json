@@ -161,7 +161,8 @@
   "iracing-web:https://www.iracing.com/?p=293070": 1795534815133,
   "traxion:https://traxion.gg/?p=110285": 1795598098786,
   "iracing-web:https://www.iracing.com/?p=293032": 1795645196966,
-  "traxion:https://traxion.gg/?p=110356": 1795711941232
+  "traxion:https://traxion.gg/?p=110356": 1795711941232,
+  "steam:1850460852989767": 1795789783578
  },
  "seededSources": [
   "steamnews:acevo",
@@ -235,7 +236,14 @@
   "iracing": [],
   "rf2": []
  },
- "today": [],
+ "today": [
+  {
+   "game": "Le Mans Ultimate",
+   "kind": "official",
+   "title": "Le Mans Ultimate Black Friday Sale is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989767"
+  }
+ ],
  "recent": [
   {
    "game": "iRacing",
@@ -313,6 +321,13 @@
    "title": "Moza partners with FIA’s Assetto Corsa Rally esports competition",
    "url": "https://traxion.gg/moza-partners-with-fias-assetto-corsa-rally-esports-competition/",
    "sentAt": 1795711941232
+  },
+  {
+   "game": "Le Mans Ultimate",
+   "kind": "official",
+   "title": "Le Mans Ultimate Black Friday Sale is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989767",
+   "sentAt": 1795789783578
   }
  ],
  "lastDigest": "2026-11-27",
