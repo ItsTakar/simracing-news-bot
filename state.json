@@ -236,14 +236,7 @@
   "iracing": [],
   "rf2": []
  },
- "today": [
-  {
-   "game": "Le Mans Ultimate",
-   "kind": "official",
-   "title": "Le Mans Ultimate Black Friday Sale is here!",
-   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989767"
-  }
- ],
+ "today": [],
  "recent": [
   {
    "game": "iRacing",
@@ -316,7 +309,7 @@
    "sentAt": 1795789783578
   }
  ],
- "lastDigest": "2026-11-27",
+ "lastDigest": "2026-11-28",
  "updateOffset": 650236579,
  "commandsRegistered": true
 }
